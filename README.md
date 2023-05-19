@@ -17,7 +17,7 @@ const button = document.getElementById('display-btn')
 
 ### if you make new elements. . .
 - you have to append it somewhere, in other words attach it to one of the existing DOM elements
-
+`
 ```js
  //append add it to that section (append allows for more than one)
 //adding an ELEMENT, adding the h1
